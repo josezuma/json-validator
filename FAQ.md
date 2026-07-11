@@ -1,7 +1,10 @@
 # FAQ
 
 ## What is json-validator?
-JSON validator and formatter
+Json Validator
 
 ## Dependencies?
 Python stdlib only.
+
+## Author
+Jose Zuma
